@@ -1,3 +1,0 @@
-net user testings /addendline
-net localgroup "administrators" testings /add endline
-exit endline
